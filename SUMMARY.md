@@ -1,6 +1,6 @@
 # Summary
 
-* [设计游戏](README.md)
+* [前言](README.md)
 * [设计游戏](1_design_a_game.md)
    * [如何开始](1_1_get_started.md)
    * [了解游戏的基本概念](1_2_basics.md)
