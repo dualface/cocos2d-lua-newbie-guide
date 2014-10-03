@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [设计游戏](1_design_a_game.md)
-   * [如何开始](1_1_get_started.md)
+   * [开始](1_1_get_started.md)
    * [了解游戏的基本概念](1_2_basics.md)
    * [确定游戏的表现形式](1_3_representation.md)
    * [从玩法中抽取游戏核心元素](1_4_game_play.md)
