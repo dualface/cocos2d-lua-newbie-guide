@@ -26,4 +26,3 @@
    * [Lua 语言基本用法](4_1_lua.md)
    * [Cocos2d_Lua 常用 API](4_2_cocos2d_lua_api.md)
    * [本书重点索引](4_3_index.md)
-
